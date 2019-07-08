@@ -13,5 +13,7 @@ A Tarot style clicky game for assignment #15
 
 5. Unfortunately, I wasn't able to piece together what much of that code would be by looking at in class work with React.
 
+6. Once I can get this working, I'll try to deploy it to Heroku and add it to my portfolio.
+
 Thanks,
 Jeff
